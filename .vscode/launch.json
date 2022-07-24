@@ -1,0 +1,70 @@
+{
+    // Użyj funkcji IntelliSense, aby uzyskać informacje o możliwych atrybutach.
+    // Najedź kursorem, aby wyświetlić opisy istniejących atrybutów.
+    // Aby uzyskać więcej informacji, odwiedź stronę: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch zadanie63",
+            "request": "launch",
+            "mainClass": "lekcja6.zadanie63",
+            "projectName": "pl.PraktycznyKursJava_4ef199a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch zadanie1",
+            "request": "launch",
+            "mainClass": "lekcja1.zadanie1",
+            "projectName": "pl.PraktycznyKursJava_4ef199a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch zadanie3",
+            "request": "launch",
+            "mainClass": "lekcja3.zadanie3",
+            "projectName": "pl.PraktycznyKursJava_4ef199a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch zadanie4",
+            "request": "launch",
+            "mainClass": "lekcja4.zadanie4",
+            "projectName": "pl.PraktycznyKursJava_4ef199a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch zadanie51",
+            "request": "launch",
+            "mainClass": "lekcja5.zadanie51",
+            "projectName": "pl.PraktycznyKursJava_4ef199a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch zadanie52",
+            "request": "launch",
+            "mainClass": "lekcja5.zadanie52",
+            "projectName": "pl.PraktycznyKursJava_4ef199a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch zadanie61",
+            "request": "launch",
+            "mainClass": "lekcja6.zadanie61",
+            "projectName": "pl.PraktycznyKursJava_4ef199a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch zadanie62",
+            "request": "launch",
+            "mainClass": "lekcja6.zadanie62",
+            "projectName": "pl.PraktycznyKursJava_4ef199a7"
+        }
+    ]
+}
