@@ -13,6 +13,7 @@ public class zqadanie73 {
         }
         else 
         {
+            
             System.out.println("pole wynosi= "+(a*b));
         }
     }

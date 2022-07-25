@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch zadanie83",
+            "request": "launch",
+            "mainClass": "lekcja8.zadanie83",
+            "projectName": "pl.PraktycznyKursJava_4ef199a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch zadanie81",
+            "request": "launch",
+            "mainClass": "lekcja8.zadanie81",
+            "projectName": "pl.PraktycznyKursJava_4ef199a7"
+        },
+        {
+            "type": "java",
             "name": "Launch zadanie72",
             "request": "launch",
             "mainClass": "lekcja7.zadanie72",
