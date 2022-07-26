@@ -1,8 +1,15 @@
 package lekcja8;
-
 public class zadanie81 {
-    public static void main(String[] args) {
-        int i=6;
+    public static void main(String[] args) 
+    {
+        
+        zadanie81 metody = new zadanie81();
+        metody.moja_metoda(2);
+  
+
+    }
+       public  void moja_metoda(int i)
+       {
         switch(i){
             case 1:
             System.out.println("wartość to 1");
@@ -33,8 +40,7 @@ public class zadanie81 {
             break;
             default:
             System.out.println("wartość to 0");
-
         }
-    }
+        }
     
 }

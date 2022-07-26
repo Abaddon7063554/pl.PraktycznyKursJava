@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch zadanie95",
+            "request": "launch",
+            "mainClass": "lekcja9.zadanie95",
+            "projectName": "pl.PraktycznyKursJava_4ef199a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch zadanie94",
+            "request": "launch",
+            "mainClass": "lekcja9.zadanie94",
+            "projectName": "pl.PraktycznyKursJava_4ef199a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch zadanie93",
+            "request": "launch",
+            "mainClass": "lekcja9.zadanie93",
+            "projectName": "pl.PraktycznyKursJava_4ef199a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch zadanie92",
+            "request": "launch",
+            "mainClass": "lekcja9.zadanie92",
+            "projectName": "pl.PraktycznyKursJava_4ef199a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch zadaniue91",
+            "request": "launch",
+            "mainClass": "lekcja9.zadaniue91",
+            "projectName": "pl.PraktycznyKursJava_4ef199a7"
+        },
+        {
+            "type": "java",
             "name": "Launch zadanie83",
             "request": "launch",
             "mainClass": "lekcja8.zadanie83",
