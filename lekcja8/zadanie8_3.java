@@ -1,6 +1,6 @@
 package lekcja8;
 
-public class zadanie83 {
+public class zadanie8_3 {
     public static void main(String[] args) {
         int liczba1=10;
         int liczba2,liczba3;

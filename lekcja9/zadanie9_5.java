@@ -1,6 +1,6 @@
 package lekcja9;
 
-public class zadanie95 {
+public class zadanie9_5 {
     public static void main(String[] args) {
         for(int i =0; i<=20;i=i+2){
             System.out.println(i+"for");

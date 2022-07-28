@@ -1,6 +1,6 @@
 package lekcja7;
 
-public class zadanie72 {
+public class zadanie7_2 {
     /**
      * @param args
      */

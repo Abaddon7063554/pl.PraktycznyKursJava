@@ -1,9 +1,9 @@
 package lekcja8;
-public class zadanie81 {
+public class zadanie8_1 {
     public static void main(String[] args) 
     {
         
-        zadanie81 metody = new zadanie81();
+        zadanie8_1 metody = new zadanie8_1();
         metody.moja_metoda(2);
   
 

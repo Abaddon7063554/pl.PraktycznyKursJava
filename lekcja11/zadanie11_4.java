@@ -1,5 +1,5 @@
 package lekcja11;
-public class zadanie14 {
+public class zadanie11_4 {
    public static void main(String[] args){
     int tab[]= new int[100];
     //int a,c,d;

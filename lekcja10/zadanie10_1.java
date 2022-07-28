@@ -1,6 +1,6 @@
 package lekcja10;
 
-public class zadanie101 {
+public class zadanie10_1 {
     public static void main(String[] arg){
         for(int i = 1; i>-21;i--){
             if(i%2==0){

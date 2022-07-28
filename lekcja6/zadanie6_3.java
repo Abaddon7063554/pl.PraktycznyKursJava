@@ -1,6 +1,6 @@
 package lekcja6;
 
-public class zadanie63 {    
+public class zadanie6_3 {    
     public static void main(String[] args) {
         int zmienna1=20;
         int zmienna2=20;

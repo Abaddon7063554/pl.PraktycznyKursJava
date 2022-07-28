@@ -1,6 +1,6 @@
 package lekcja7;
 
-public class zqadanie73 {
+public class zadanie7_3 {
     public static void main(String[] args) {
         int a =1;
         int b= 2;

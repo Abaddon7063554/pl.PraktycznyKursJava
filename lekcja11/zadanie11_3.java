@@ -1,5 +1,5 @@
 package lekcja11;
-public class zadanie13 {
+public class zadanie11_3 {
    public static void main(String[] args) {
     boolean[] tab = new boolean[20];
     boolean a;

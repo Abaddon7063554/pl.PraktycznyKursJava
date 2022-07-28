@@ -1,5 +1,5 @@
 package lekcja6;
-public class zadanie64 {
+public class zadanie6_4 {
     public static void main(String [] args){
         int i=55;
         int j=12;

@@ -1,6 +1,6 @@
 package lekcja10;
 
-public class zadanie105 {
+public class zadanie10_5 {
     public static void main(String[] args) {
         
     

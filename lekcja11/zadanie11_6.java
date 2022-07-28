@@ -1,6 +1,6 @@
 package lekcja11;
 
-public class zadanie16 {
+public class zadanie11_6 {
     public static void main(String[] args) {
         short tablica[] = new short[10];
         short i = 0;
