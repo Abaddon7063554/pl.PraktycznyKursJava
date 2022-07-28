@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch zadanie15",
+            "request": "launch",
+            "mainClass": "lekcja11.zadanie15",
+            "projectName": "pl.PraktycznyKursJava_4ef199a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch zadanie13",
+            "request": "launch",
+            "mainClass": "lekcja11.zadanie13",
+            "projectName": "pl.PraktycznyKursJava_4ef199a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch zadanie11",
+            "request": "launch",
+            "mainClass": "lekcja11.zadanie11",
+            "projectName": "pl.PraktycznyKursJava_4ef199a7"
+        },
+        {
+            "type": "java",
             "name": "Launch zadanie103",
             "request": "launch",
             "mainClass": "lekcja10.zadanie103",
