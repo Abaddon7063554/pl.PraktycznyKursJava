@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3c524fe6-a3bc-4b5a-9cc1-bc460ea8cd71" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../lekcja13/zadanie13_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lekcja13/zadanie13_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/pl.PraktycznyKursJava/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/pl.PraktycznyKursJava/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/pl.PraktycznyKursJava/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/pl.PraktycznyKursJava/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/pl.PraktycznyKursJava/lekcja1/zadanie1_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/pl.PraktycznyKursJava/lekcja10/zadanie10_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/pl.PraktycznyKursJava/lekcja10/zadanie10_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/pl.PraktycznyKursJava/lekcja10/zadanie10_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/pl.PraktycznyKursJava/lekcja10/zadanie10_5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/pl.PraktycznyKursJava/lekcja10/zadanie10_6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/pl.PraktycznyKursJava/lekcja11/zadanie11_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/pl.PraktycznyKursJava/lekcja11/zadanie11_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/pl.PraktycznyKursJava/lekcja11/zadanie11_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/pl.PraktycznyKursJava/lekcja11/zadanie11_4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/pl.PraktycznyKursJava/lekcja11/zadanie11_5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/pl.PraktycznyKursJava/lekcja11/zadanie11_6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/pl.PraktycznyKursJava/lekcja12/zadanie12_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/pl.PraktycznyKursJava/lekcja12/zadanie12_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/pl.PraktycznyKursJava/lekcja12/zadanie12_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/pl.PraktycznyKursJava/lekcja12/zadanie12_4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/pl.PraktycznyKursJava/lekcja13/LiczbyCalkowite1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/pl.PraktycznyKursJava/lekcja13/Prostokat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/pl.PraktycznyKursJava/lekcja13/Prostokat1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/pl.PraktycznyKursJava/lekcja13/zadanie13_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/pl.PraktycznyKursJava/lekcja13/zadanie13_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/pl.PraktycznyKursJava/lekcja13/zadanie13_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/pl.PraktycznyKursJava/lekcja13/zadanie13_5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/pl.PraktycznyKursJava/lekcja3/zadanie3_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/pl.PraktycznyKursJava/lekcja4/zadanie4_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/pl.PraktycznyKursJava/lekcja5/zadanie5_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/pl.PraktycznyKursJava/lekcja5/zadanie5_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/pl.PraktycznyKursJava/lekcja6/zadanie6_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/pl.PraktycznyKursJava/lekcja6/zadanie6_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/pl.PraktycznyKursJava/lekcja6/zadanie6_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/pl.PraktycznyKursJava/lekcja6/zadanie6_4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/pl.PraktycznyKursJava/lekcja7/zadanie7_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/pl.PraktycznyKursJava/lekcja7/zadanie7_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/pl.PraktycznyKursJava/lekcja7/zadanie7_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/pl.PraktycznyKursJava/lekcja8/zadanie8_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/pl.PraktycznyKursJava/lekcja8/zadanie8_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/pl.PraktycznyKursJava/lekcja8/zadanie8_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/pl.PraktycznyKursJava/lekcja9/zadanie9_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/pl.PraktycznyKursJava/lekcja9/zadanie9_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/pl.PraktycznyKursJava/lekcja9/zadanie9_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/pl.PraktycznyKursJava/lekcja9/zadanie9_4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/pl.PraktycznyKursJava/lekcja9/zadanie9_5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/pl.PraktycznyKursJava/pl.PraktycznyKursJava.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pl.PraktycznyKursJava.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2CkhFyKlhWh5x1ixM4OBy6d8roi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Lukasz/Documents/GitHub/pl.PraktycznyKursJava/lekcja5"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c524fe6-a3bc-4b5a-9cc1-bc460ea8cd71" name="Changes" comment="" />
+      <created>1659352389850</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659352389850</updated>
+    </task>
+    <servers />
+  </component>
+</project>
