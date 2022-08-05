@@ -15,8 +15,9 @@ package lekcja1;
     }
     void wyswietlDane(){
         System.out.print("liczba1 ="+liczba1+ "\nliczba2 ="+liczba2);
+ System.currentTimeMillis();
     }
  }
 public class konstruktor1 {
-    psvm
+  
 }
