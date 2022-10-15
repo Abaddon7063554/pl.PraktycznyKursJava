@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch main",
+            "request": "launch",
+            "mainClass": "FTP.main",
+            "projectName": "pl.PraktycznyKursJava_4ef199a7"
+        },
+        {
+            "type": "java",
+            "name": "Launch FTP",
+            "request": "launch",
+            "mainClass": "FTP.FTP",
+            "projectName": "pl.PraktycznyKursJava_4ef199a7"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
