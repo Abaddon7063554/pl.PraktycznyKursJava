@@ -5,5 +5,6 @@ public class zadanie4_1 {
         short druga = 3214;
         System.out.println(pierwsza+druga);
         System.out.println("pierwsza= "+pierwsza + " druga= "+druga);
+
     }
 }
